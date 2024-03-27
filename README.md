@@ -1,4 +1,4 @@
-# Night Club Contact Information Webscrapping Script
+# Night Club Contact Information Web Scraping Script
 Created by: Bonnie White <br> 
 Completed in July 2023
 
